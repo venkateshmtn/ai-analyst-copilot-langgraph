@@ -9,3 +9,9 @@ data/*
 execution_logs
 execution_logs.txt
 *.log
+
+# Prevent uploading heavy raw production datasets
+data/*
+
+# EXPLICITLY ALLOW your local Superstore spreadsheet
+!data/Sample - Superstore*
