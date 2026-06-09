@@ -15,3 +15,6 @@ data/*
 
 # EXPLICITLY ALLOW your local Superstore spreadsheet
 !data/Sample - Superstore*
+
+# Allow project documentation assets
+!screenshots/
