@@ -1,0 +1,11 @@
+venv/
+logs/
+reports/
+__pycache__/
+app/__pycache__/
+data/*
+
+# Add these to catch the text logs perfectly:
+execution_logs
+execution_logs.txt
+*.log
